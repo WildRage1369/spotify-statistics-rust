@@ -14,7 +14,7 @@ Download the latest release to your directory of choice
  |------------|-----------|
  | \<dir\> | Directory of the Extended Streaming History, can be relative |
  | \<stat\> | One of: 'song', 'album' or 'artist' |
- | \<name\> | The name of said song/album/artist"); |
+ | \<name\> | The name of said song/album/artist |
 
 # Crates.io Dependencies
 - convert_case: "0.6.0"
