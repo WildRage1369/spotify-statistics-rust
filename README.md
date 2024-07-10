@@ -1,5 +1,10 @@
 # spotify-statistics-rust
-A program to parse Spotify's Extended Streaming History Data written in Rust
+
+A CLI program to parse Spotify's Extended Streaming History Data written in Rust
+
+# Installation
+
+Download the latest release to your directory of choice
 
 # Usage
 
