@@ -1,0 +1,17 @@
+[package]
+name = "spotify-statistics-rust"
+version = "1.0.0"
+authors = [ "Maxine Reyes Gomez" ]
+description = "A program to parse Spotify's Extended Streaming History Data written in Rust"
+readme = "README.md"
+repository = "https://github.com/WildRage1369/spotify-statistics-rust"
+keywords = [ "rust", "spotify", "JSON" ]
+license = "AGPL-3.0-only"
+edition = "2021"
+
+[dependencies]
+convert_case = "0.6.0"
+fancy = "0.3.1"
+json-parser = "1.0.2"
+regex = "1.10.5"
+serde_json = "1.0.120"
